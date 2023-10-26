@@ -16,7 +16,7 @@ export const ProjectList = [
         skills: "Python, SQL, Discord.py, APIs, Hetzner",
     },
     {
-        name: "NFT Project Smart Contract",
+        name: "NFT Smart Contract",
         image: Proj3,
         skills: "Solidity, Alchemy, Metamask, Javascript",
     },

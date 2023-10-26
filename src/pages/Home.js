@@ -25,8 +25,8 @@ function Home() {
                 <div className="info">
                     <p>
                         Hey there, I'm Joseph, a current sophomore majoring in Computer Science at UC Berkeley. I have experience 
-                        in many different areas of programming such as: Full-Stack, Mobile, Discord Bots, Databases, and much more.
-                        I'm always looking to increase my skills in coding and plan to become a Software Engineer in the near future.
+                        in different areas such as: Full-Stack, Mobile, Databases, and Discord Bots. In the future, I plan to pursue a 
+                        career as a Software Engineer.
                     </p>
                 </div>
             </div>
